@@ -133,7 +133,7 @@ You can easily customize:
 # Live Demo
 
 ```bash
-https://your-live-demo-link.vercel.app
+https://david-stack.vercel.app/
 ```
 
 ---
