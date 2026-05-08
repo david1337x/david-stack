@@ -1,6 +1,6 @@
 <div align="center">
 
-# david-stack
+# David-stack
 
 Modern full stack developer portfolio built with a brutalist cyberpunk aesthetic, interactive UI systems, and performance-focused frontend architecture.
 
@@ -12,7 +12,7 @@ Modern full stack developer portfolio built with a brutalist cyberpunk aesthetic
 
 ## Overview
 
-david-stack is a modern developer portfolio website designed to showcase projects, skills, experience, and coding activity through a visually aggressive and highly interactive interface.
+David-stack is a modern developer portfolio website designed to showcase projects, skills, experience, and coding activity through a visually aggressive and highly interactive interface.
 
 The website combines brutalist layouts, terminal-inspired visuals, smooth animations, glitch effects, and modern frontend engineering into a fully responsive experience optimized for desktop and mobile devices.
 
@@ -20,7 +20,7 @@ The website combines brutalist layouts, terminal-inspired visuals, smooth animat
 
 # Preview
 
-<img width="100%" src="./assets/preview.png" alt="david-stack preview" />
+<img width="100%" src="./assets/preview.png" alt="David-stack preview" />
 
 ---
 
