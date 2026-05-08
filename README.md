@@ -18,12 +18,6 @@ The website combines brutalist layouts, terminal-inspired visuals, smooth animat
 
 ---
 
-# Preview
-
-<img width="100%" src="./assets/preview.png" alt="David-stack preview" />
-
----
-
 # Features
 
 - Brutalist cyberpunk design system
